@@ -1,0 +1,15 @@
+Audio Editing 
+
+. Echo / Reverb less
+	. Deverb - Light Mode 
+
+. Mastering 
+	. Parametric Equalizer
+		- Vocal Enhancer 
+		- Loudness Maximizer
+	. Multiband Compressor 
+		- Enhance Lows 
+		- Broadcast 
+	. dynamics
+		- Limiter 
+		- -6db
